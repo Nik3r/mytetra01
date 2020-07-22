@@ -3,18 +3,11 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="15954084460ar0gn59mh" name="Переименуй меня"/>
-  <node crypt="" id="15954131087vv6zfzibl" name="WoW">
-   <node crypt="" id="1595413118cjx9hcurqr" name="Рейды">
-    <node crypt="" id="159541312573eekev8sv" name="Гайды">
-     <node crypt="" id="1595413140opo85108vd" name="МК">
-      <recordtable>
-       <record id="15954142458779utbf2s" name="Люцифрон" author="" url="" tags="" ctime="20200722133725" dir="1595414245irkneb2sli" file="text.html"/>
-       <record id="1595415341v5ad7aeqie" name="Магмадар" author="" url="" tags="" ctime="20200722135541" dir="159541534119z83eoium" file="text.html"/>
-      </recordtable>
-     </node>
-    </node>
-   </node>
+  <node name="МК" crypt="0" id="1595413140opo85108vd">
+   <recordtable>
+    <record ctime="20200722133725" file="text.html" author="" name="Люцифрон" dir="1595414245irkneb2sli" id="15954142458779utbf2s" url="" tags=""/>
+    <record ctime="20200722135541" file="text.html" author="" name="Магмадар" dir="159541534119z83eoium" id="1595415341v5ad7aeqie" url="" tags=""/>
+   </recordtable>
   </node>
  </content>
 </root>
